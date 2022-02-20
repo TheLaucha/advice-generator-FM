@@ -1,6 +1,6 @@
 # Advice generator app - Frontend Mentor
 
-![Design preview for the Profile card component challenge hub](./src/images/image-preview.png)
+![Design preview for the Profile card component challenge hub](./images/image-preview.png)
 
 This is a solution to the [Advice generator app challenge hub](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-IgdbZmlWw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
