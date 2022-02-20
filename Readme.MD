@@ -25,7 +25,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://www.frontendmentor.io/solutions/profile-card-component-5-dR3pkY9)
+- Solution URL: [Link](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-T5lUYIOrE)
 - Live Site URL: [Link](https://thelaucha.github.io/advice-generator-FM/)
 
 ## My process
